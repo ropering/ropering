@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Flask-3746AB?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Django-3821AB?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <br>
