@@ -33,4 +33,7 @@
 <p align="center">
   <a href="mailto:bonoboss1028@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bonoboss1028@gmail.com"/></a>
 </p>
+<p align="center">
+    ![](https://komarev.com/ghpvc/?username=ropering)
+</p>
 <br>
