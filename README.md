@@ -23,18 +23,17 @@
   ![Notion](https://img.shields.io/badge/Notion-white?style=flat-square&logo=notion&logoColor=black)&nbsp;
   ![Jira](https://img.shields.io/badge/Jira-2681F8?style=flat-square&logo=jira&logoColor=white)&nbsp;
   ![Trello](https://img.shields.io/badge/trello-266F9A?style=flat-square&logo=trello&logoColor=white)&nbsp;  
+  
   ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=black)&nbsp;
   ![Git](https://img.shields.io/badge/Git-E25A38?style=flat-square&logo=git&logoColor=white)&nbsp;
   ![Markdown](https://img.shields.io/badge/Markdown-white?style=flat-square&logo=markdown&logoColor=black)&nbsp;
 
-
-  <h3>💻 My Github Stats 💻</h3>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=Ropering&show_icons=true"></p>
-  <br>
-
+  
   <h3>📫 How to reach me 📫</h3>
-  <p>
-    <a href="mailto:bonoboss1028@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bonoboss1028@gmail.com"/></a><br>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRopering%2Fhit-counter&count_bg=%23A4E772&title_bg=%234CB019&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
-  </p>
+  <a href="mailto:bonoboss1028@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bonoboss1028@gmail.com"/></a><br>
+
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRopering%2Fhit-counter&count_bg=%23A4E772&title_bg=%234CB019&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
+  
+  <h3>💻 My Github Stats 💻</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ropering&show_icons=true">
 </div>
