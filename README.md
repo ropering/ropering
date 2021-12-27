@@ -39,7 +39,28 @@
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRopering%2Fhit-counter&count_bg=%23A4E772&title_bg=%234CB019&icon=github.svg&icon_color=%23E7E7E7&title=&edge_flat=false"/></a>
   </p>
   <br>
+<<<<<<< HEAD
 
   <p>
   </p>
 </div>
+=======
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
+</p>
+<br>
+
+<h3 align="center">💻 My Github Stats 💻</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ropering&show_icons=true"></p>
+<br>
+
+<h3 align="center">📫 How to reach me 📫</h3>
+<p align="center">
+  <a href="mailto:bonoboss1028@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bonoboss1028@gmail.com"/></a> 
+</p>
+<br>
+
+![](https://komarev.com/ghpvc/?username=ropering)
+>>>>>>> 4f294ef0a729a60c02f0936c923a7ff06d62ef8e
