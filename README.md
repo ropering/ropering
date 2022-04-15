@@ -10,7 +10,7 @@
   ![Django](https://img.shields.io/badge/Django-01392A?style=flat-square&logo=Django&logoColor=white)&nbsp;
   ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-CBA01A?style=flat-square&logo=apachetomcat&logoColor=black)&nbsp;
 
-  ![SQLite](https://img.shields.io/badge/SQLite-BDCCE2?style=flat-square&logo=Sqlite&logoColor=white)&nbsp;
+  ![SQLite](https://img.shields.io/badge/SQLite-BDCCE2?style=flat-square&logo=Sqlite&logoColor=black)&nbsp;
   ![oracle](https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)&nbsp;
   ![Mysql](https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=white)&nbsp;
 
