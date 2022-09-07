@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello World!%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%This%20is%20Walter's%20GitHub!&descAlignY=60&descAlign=62"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello World!%20👋&fontSize=75&animation=fadeIn&fontAlignY=38&desc=%This%20is%20Walter's%20GitHub!&descAlignY=60&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
   <h3>🛠 Tech Stack 🛠</h3>
   <!-- https://simpleicons.org/ -->
 
